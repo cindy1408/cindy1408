@@ -6,13 +6,13 @@
 
 ### I am currently working at Atos and in my spare time I'm currently learning Rust and building my personal Gym app in Go. 🌱
 
-Other interesting facts about me: 
-📚 I still tutor Maths 
-🎸 Grade 8 Classical guitariest 
-🥇 1st prize in North London Music Festival 
-🥋 Black belt in Shotokan Karate
-🧠 Learning Etude 11 by Villa Lobos
-🏋️‍ Enjoy weight lifting
+Other interesting facts about me: <br />
+📚 I still tutor Maths <br />
+🎸 Grade 8 Classical guitariest <br />
+🥇 1st prize in North London Music Festival <br />
+🥋 Black belt in Shotokan Karate <br />
+🧠 Learning Etude 11 by Villa Lobos <br />
+🏋️‍ Enjoy weight lifting <br />
 
 ### I love learning and always remind myself one step at a time. 🐢
 
